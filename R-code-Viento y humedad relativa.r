@@ -1,5 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+#Créditos a:
+#https://stackoverflow.com/questions/32705013/plot-wind-barb-in-r
 #Generar el dibujo de barras de viento
 wind_barb <- function(x, mlength=0.1, wblength=0.025) {
   
